@@ -1,0 +1,6 @@
+Quer clonar?
+Use este link! 
+https://github.com/leo-vilelela/Code-City-News.git
+
+Acesse nosso site pelo link:
+https://leo-vilelela.github.io/Code-City-News/
